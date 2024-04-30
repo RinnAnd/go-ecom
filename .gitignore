@@ -1,0 +1,8 @@
+*.exe
+*.dll
+
+bin/
+
+*.env
+
+go.sum
